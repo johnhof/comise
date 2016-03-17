@@ -1,0 +1,32 @@
+{
+  "name": "comise",
+  "version": "0.1.0",
+  "description": "Promises + Co",
+  "main": "lib/comise.json",
+  "scripts": {
+    "test": "mocha ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnhof/comise.git"
+  },
+  "keywords": [
+    "co",
+    "promise",
+    "comise",
+    "generator"
+  ],
+  "author": "John Hofrichter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnhof/comise/issues"
+  },
+  "homepage": "https://github.com/johnhof/comise#readme",
+  "dependencies": {
+    "co": "^4.6.0"
+  },
+  "devDependencies": {
+    "co-mocha": "^1.1.2",
+    "mocha": "^2.4.5"
+  }
+}
