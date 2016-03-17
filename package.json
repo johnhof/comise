@@ -26,6 +26,7 @@
     "co": "^4.6.0"
   },
   "devDependencies": {
+    "chai": "^3.5.0",
     "co-mocha": "^1.1.2",
     "mocha": "^2.4.5"
   }
